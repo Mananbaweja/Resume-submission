@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(234, 229, 205);
+  }
+h1 {
+    color:rgb(255, 0, 64) ;
+    font-family: verdana;
+    font-size: 150%
+}
+h3 {
+    color:rgb(93, 21, 21) ;
+    font-family: serif;
+    font-size: 125%
+}
+.initials {
+    border: 3px outset rgb(0, 0, 0);
+    background-color: lightblue;
+    text-align: left;
+}
+.education {
+    border:2px outset rgb(0, 0, 0);
+    background-color : lightgray;
+    text-align: left;
+}
+.goals {
+    border:2px outset rgb(0, 0, 0);
+    background-color : rgb(186, 207, 196);
+    text-align: left;
+}
+.interests {
+    border:2px outset rgb(0, 0, 0);
+    background-color : rgb(220, 174, 174);
+    text-align: left;
+}
+.skills {
+    border:2px outset rgb(0, 0, 0);
+    background-color : rgb(200, 215, 161);
+    text-align: left;
+}
